@@ -21,7 +21,7 @@ const min = document.getElementById('min');
 const sec = document.getElementById('sec');
 
 // Set the date we're counting down to
-var countDownDate = new Date("march 15, 2024 15:37:25").getTime();
+var countDownDate = new Date("may 15, 2024 15:37:25").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function () {
